@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-14T20:48:01 IST" name="Suite1" finished-at="2021-07-14T20:48:01 IST" duration-ms="59">
+    <groups>
+    </groups>
+    <test started-at="2021-07-14T20:48:01 IST" name="Test1" finished-at="2021-07-14T20:48:01 IST" duration-ms="59">
+      <class name="SecondTest">
+        <test-method signature="divTest()[pri:0, instance:SecondTest@2beee7ff]" started-at="2021-07-14T20:48:01 IST" name="divTest" finished-at="2021-07-14T20:48:01 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method signature="mulTest()[pri:0, instance:SecondTest@2beee7ff]" started-at="2021-07-14T20:48:01 IST" name="mulTest" finished-at="2021-07-14T20:48:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+      </class> <!-- SecondTest -->
+      <class name="FirstTest">
+        <test-method signature="add1Test()[pri:0, instance:FirstTest@3c947bc5]" started-at="2021-07-14T20:48:01 IST" name="add1Test" finished-at="2021-07-14T20:48:01 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add1Test -->
+        <test-method signature="sub1Test()[pri:0, instance:FirstTest@3c947bc5]" started-at="2021-07-14T20:48:01 IST" name="sub1Test" finished-at="2021-07-14T20:48:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub1Test -->
+      </class> <!-- FirstTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
